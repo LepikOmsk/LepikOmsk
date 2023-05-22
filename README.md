@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**LepikOmsk/LepikOmsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const person = {
+  name: 'Alexey Kunitsyn',
+  gender: 'male',
+  height: 180,
+  age: 34,
+}
 
-Here are some ideas to get you started:
+const technologies = {
+  languages: ['HTML', 'CSS', 'Javascript', 'Typescript'],
+  frontEnd: {
+    framework: 'React',
+    stateManager: ['Redux', 'Redux Toolkit'],
+    libs: ['react-router-dom', 'react-dnd', 'react-scroll'],
+    tests: ['jest', 'cypress'],
+    connection: ['HTTP', 'WebSocket'],
+  },
+  layout: ['Figma', 'Photoshop'],
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
