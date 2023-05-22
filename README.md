@@ -19,8 +19,3 @@ const technologies = {
   },
   layout: ['Figma', 'Photoshop'],
 }
-
-
-
-[telegram]: https://t.me/HunterM7
-[github]: https://github.com/LepikOmsk
