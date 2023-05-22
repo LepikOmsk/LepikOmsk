@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-const person = {
+```javascript
+const preson = {
   name: 'Alexey Kunitsyn',
   gender: 'male',
   height: 180,
@@ -19,3 +20,7 @@ const technologies = {
   layout: ['Figma', 'Photoshop'],
 }
 
+
+
+[telegram]: https://t.me/HunterM7
+[github]: https://github.com/LepikOmsk
